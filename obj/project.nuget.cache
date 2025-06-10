@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AgJ7ZlL6lvY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lopez\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Alfredo\\alfredo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lopez\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+Mods: {
+	Alfredo: {
+		Items: {
+			BasicSword: {
+				DisplayName: Basic Sword
+				Tooltip: ""
+			}
+
+			StarterBag: {
+				DisplayName: Starter Bag
+				Tooltip: ""
+			}
+		}
+	}
+}
