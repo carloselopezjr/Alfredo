@@ -1,0 +1,3 @@
+displayName = alfredo mod
+author = winners
+version = 0.1
