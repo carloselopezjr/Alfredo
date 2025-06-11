@@ -10,6 +10,20 @@ Mods: {
 				DisplayName: Starter Bag
 				Tooltip: ""
 			}
+
+			JpShoes: {
+				DisplayName: Jp Shoes
+				Tooltip: ""
+			}
+
+			DigPower: {
+				DisplayName: Dig/Power
+				Tooltip: '''
+							Tunnel Vision on a guapstack
+							Increases Mining Speed by 20%
+						'''
+
+			}
 		}
 	}
 }

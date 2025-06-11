@@ -27,12 +27,14 @@ namespace Alfredo.Content.Items.Consumables
             itemLoot.Add(ItemDropRule.Common(ItemID.HermesBoots, 1, 1, 1));
             itemLoot.Add(ItemDropRule.Common(ItemID.IronPickaxe, 1, 1, 1));
             itemLoot.Add(ItemDropRule.Common(ItemID.SlimeStaff, 1, 1, 1));
+            itemLoot.Add(ItemDropRule.Common(ModContent.ItemType<Items.Accessories.JpShoes>(), 1, 1, 1));
+            itemLoot.Add(ItemDropRule.Common(ModContent.ItemType<Items.Accessories.DigPower>(), 1, 1, 1));
         }
 
         // this is here for testing, it'll be given to the player automatically
         public override void AddRecipes()
         {
-            Recipe recipe = CreateRecipe();
+            Recipe recipe = CreateRecipe(); 
             recipe.AddIngredient(ItemID.DirtBlock, 1);
             recipe.AddTile(TileID.WorkBenches);
             recipe.Register();
